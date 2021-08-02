@@ -1,5 +1,5 @@
 # Deep-Learning-Practice
-Practice problems and mini-projects involving neural networks. Includes my work from the Deeplearning.ai Neural Networks and Deep Learning online course. 
+Learning about deep neural networks using Numpy and Tensorflow. Includes my work from the Deeplearning.ai Neural Networks and Deep Learning online course. 
 
 
 ## Notes
